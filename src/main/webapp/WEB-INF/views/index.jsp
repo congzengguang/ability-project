@@ -14,7 +14,6 @@
 </head>
 <body>
  
-<!-- 你的HTML代码 -->
  
 <script src="${path}/static/plugin/layui-master/dist/layui.all.js"></script>
 <script>
