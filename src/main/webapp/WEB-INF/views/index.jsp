@@ -10,13 +10,13 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <title>非模块化方式使用layui</title>
-  <link rel="stylesheet" href="${path}/static/layui-master/dist/css/layui.css">
+  <link rel="stylesheet" href="${path}/static/plugin/layui-master/dist/css/layui.css">
 </head>
 <body>
  
 <!-- 你的HTML代码 -->
  
-<script src="${path}/static/layui-master/dist/layui.all.js"></script>
+<script src="${path}/static/plugin/layui-master/dist/layui.all.js"></script>
 <script>
 layui.use(['layer', 'form'], function(){
 	  var layer = layui.layer
